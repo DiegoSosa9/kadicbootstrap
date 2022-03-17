@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.imgprincipal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.rows {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img__central {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 0rem 3rem 0rem;
+    
+}
+
+.img__carrucel {
+    height: auto;
+}
+
+.card__ind{
+    height: 300px;
+}
+.card{
+    margin: 8rem;
+}
+
+.card__central {
+    margin-bottom: 6rem;
+}
+
+.container_footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: sandybrown;
+}
+
+.p__lorem {
+    padding: 2rem 10rem 2rem 6rem;
+}
+
+#btn-pri {
+    color: #fff;
+    background-color: #444141; 
+    border-color: #444141;
+}
+
+.conteiner__form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 6rem;
+}
+
+.section__contacto{
+    margin: 10px;
+}
+
