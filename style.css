@@ -1,7 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-}
+
 
 .imgprincipal {
     display: flex;
@@ -10,7 +7,10 @@
     margin-bottom: 2rem;
     margin-top: 2rem;
 }
-
+.footer_color{
+    background-color: rgb(235, 127, 108);
+}
+/* 
 .rows {
     display: flex;
     flex-direction: column;
@@ -66,5 +66,5 @@
 
 .section__contacto{
     margin: 10px;
-}
+} */
 
